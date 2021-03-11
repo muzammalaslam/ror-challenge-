@@ -1,5 +1,5 @@
 current directory: /Users/applepc/WorkSpace/rails/ror-challenge-/vendor/bundle/ruby/2.4.0/gems/ffi-1.15.0/ext/ffi_c
-/Users/applepc/.rvm/rubies/ruby-2.4.2/bin/ruby -I /Users/applepc/.rvm/rubies/ruby-2.4.2/lib/ruby/site_ruby/2.4.0 -r ./siteconf20210312-89503-16h5i40.rb extconf.rb
+/Users/applepc/.rvm/rubies/ruby-2.4.2/bin/ruby -I /Users/applepc/.rvm/rubies/ruby-2.4.2/lib/ruby/site_ruby/2.4.0 -r ./siteconf20210312-27514-37prms.rb extconf.rb
 checking for ffi_prep_closure_loc() in -lffi... no
 checking for ffi_prep_closure_loc() in -llibffi... no
 checking for ffi_prep_closure_loc() in -llibffi-8... no
@@ -123,4 +123,4 @@ compiling Types.c
 compiling Variadic.c
 compiling ffi.c
 linking shared-object ffi_c.bundle
-/usr/local/opt/coreutils/bin/ginstall -c -m 0755 ffi_c.bundle ./.gem.20210312-89503-1hv1ryi
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 ffi_c.bundle ./.gem.20210312-27514-1dvtd4u

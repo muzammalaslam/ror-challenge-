@@ -1,5 +1,5 @@
 current directory: /Users/applepc/WorkSpace/rails/ror-challenge-/vendor/bundle/ruby/2.4.0/gems/puma-3.12.6/ext/puma_http11
-/Users/applepc/.rvm/rubies/ruby-2.4.2/bin/ruby -I /Users/applepc/.rvm/rubies/ruby-2.4.2/lib/ruby/site_ruby/2.4.0 -r ./siteconf20210312-89503-chudfe.rb extconf.rb
+/Users/applepc/.rvm/rubies/ruby-2.4.2/bin/ruby -I /Users/applepc/.rvm/rubies/ruby-2.4.2/lib/ruby/site_ruby/2.4.0 -r ./siteconf20210312-27514-t9n8jq.rb extconf.rb
 checking for BIO_read() in -lcrypto... yes
 checking for SSL_CTX_new() in -lssl... yes
 checking for openssl/bio.h... yes
@@ -35,4 +35,4 @@ linking shared-object puma/puma_http11.bundle
 
 current directory: /Users/applepc/WorkSpace/rails/ror-challenge-/vendor/bundle/ruby/2.4.0/gems/puma-3.12.6/ext/puma_http11
 make "DESTDIR=" install
-/usr/local/opt/coreutils/bin/ginstall -c -m 0755 puma_http11.bundle ./.gem.20210312-89503-16uxjj0/puma
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 puma_http11.bundle ./.gem.20210312-27514-jz9ylz/puma

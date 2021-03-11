@@ -1,5 +1,5 @@
 current directory: /Users/applepc/WorkSpace/rails/ror-challenge-/vendor/bundle/ruby/2.4.0/gems/sqlite3-1.4.2/ext/sqlite3
-/Users/applepc/.rvm/rubies/ruby-2.4.2/bin/ruby -I /Users/applepc/.rvm/rubies/ruby-2.4.2/lib/ruby/site_ruby/2.4.0 -r ./siteconf20210312-89503-1p4nzh1.rb extconf.rb
+/Users/applepc/.rvm/rubies/ruby-2.4.2/bin/ruby -I /Users/applepc/.rvm/rubies/ruby-2.4.2/lib/ruby/site_ruby/2.4.0 -r ./siteconf20210312-27514-14exmmb.rb extconf.rb
 checking for sqlite3.h... yes
 checking for pthread_create() in -lpthread... yes
 checking for -ldl... yes
@@ -60,4 +60,4 @@ linking shared-object sqlite3/sqlite3_native.bundle
 
 current directory: /Users/applepc/WorkSpace/rails/ror-challenge-/vendor/bundle/ruby/2.4.0/gems/sqlite3-1.4.2/ext/sqlite3
 make "DESTDIR=" install
-/usr/local/opt/coreutils/bin/ginstall -c -m 0755 sqlite3_native.bundle ./.gem.20210312-89503-18xnn6a/sqlite3
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 sqlite3_native.bundle ./.gem.20210312-27514-f8qrnw/sqlite3

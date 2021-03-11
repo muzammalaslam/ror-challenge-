@@ -1,5 +1,5 @@
 current directory: /Users/applepc/WorkSpace/rails/ror-challenge-/vendor/bundle/ruby/2.4.0/gems/bootsnap-1.7.2/ext/bootsnap
-/Users/applepc/.rvm/rubies/ruby-2.4.2/bin/ruby -I /Users/applepc/.rvm/rubies/ruby-2.4.2/lib/ruby/site_ruby/2.4.0 -r ./siteconf20210312-89503-14m8gvv.rb extconf.rb
+/Users/applepc/.rvm/rubies/ruby-2.4.2/bin/ruby -I /Users/applepc/.rvm/rubies/ruby-2.4.2/lib/ruby/site_ruby/2.4.0 -r ./siteconf20210312-27514-1wv3nmm.rb extconf.rb
 creating Makefile
 
 current directory: /Users/applepc/WorkSpace/rails/ror-challenge-/vendor/bundle/ruby/2.4.0/gems/bootsnap-1.7.2/ext/bootsnap
@@ -12,4 +12,4 @@ linking shared-object bootsnap/bootsnap.bundle
 
 current directory: /Users/applepc/WorkSpace/rails/ror-challenge-/vendor/bundle/ruby/2.4.0/gems/bootsnap-1.7.2/ext/bootsnap
 make "DESTDIR=" install
-/usr/local/opt/coreutils/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20210312-89503-17723b/bootsnap
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20210312-27514-49e5mg/bootsnap
